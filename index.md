@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a student at School of Future Science and Technology of Soochow University which located in Suzhou, Jiangsu Province, China.
+I am a student at School of Future Science and Engineering, Soochow University which located in Suzhou, Jiangsu Province, China.
 
 ## Research Interests
 
