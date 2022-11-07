@@ -12,7 +12,7 @@ I am a student at School of Future Science and Technology of Soochow University 
 
 ## News
 
-- **[October 21, 2022]**  I joined the [BeeLab](https://xinyu1213.github.io).
+- **[October 21, 2022]**  I joined the [BeeLab](https://beelab955.github.io/).
 
 
 ## Projects
